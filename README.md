@@ -69,7 +69,7 @@ En el ejemplo, nos dice que se encuentra en la posición número 2, lo cual podr
 ### Orden de bicicletas por color
 Esta funcionalidad se encuentra implícita en el ingreso de todas las bicicletas. Lo que se hace es realizar el ingreso de cada bicicleta de manera que se vayan agrupando por su respectivo color. Para hacer evidente esta funcionalidad, al ejemplo que se ha venido presentando se le agregaron 100 bicicletas y en la siguiente imagen alcanzamos a ver como se están agrupando las amarillas y por otro lado las azules:
 
-[![Bicicletas por color](https://i.ibb.co/t4FbGsq/Img7.png "Bicicletas por color")](https://i.ibb.co/t4FbGsq/Img7.png "Bicicletas por color")
+[![Bicicletas por color](https://i.ibb.co/vqBSS72/Img7-2.png "Bicicletas por color")](https://i.ibb.co/vqBSS72/Img7-2.png "Bicicletas por color")
 
 &nbsp;
 
